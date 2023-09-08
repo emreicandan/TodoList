@@ -7,5 +7,8 @@ React.js To-do list project
 
 
 
-https://github.com/emreicandan/TodoList/assets/114006556/f4acee3a-410f-4871-91b0-9f3fc7e7d5fc
+
+https://github.com/emreicandan/TodoList/assets/114006556/c5ca1b98-5cc1-47e7-9ea2-e51bec8c41b3
+
+
 
